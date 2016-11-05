@@ -703,7 +703,7 @@
   <string key="DefaultKilled">
     <!-- 0 - target's name -->
     <!-- 1 - target's role -->
-    <value>耿鬼竟然模仿開膛手傑克，將【{0}】嘅胸膛割開了一個大窿，該小精靈嘅訓練員【{0}】都不忍直視那恐怖嘅死狀。【{1}】</value>
+    <value>耿鬼竟然模仿開膛手傑克，將【{0}】嘅胸膛割開了一個大窿，小精靈嘅訓練員【{0}】都不忍直視那恐怖嘅死狀。【{1}】</value>
   </string>
   <string key="GuardBlockedKiller">
     <!-- 0 - target's name -->
