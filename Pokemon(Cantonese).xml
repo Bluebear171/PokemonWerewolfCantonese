@@ -2,37 +2,37 @@
 <strings>
   <language name="廣東話（神奇寶貝寶可夢版）" base="廣東話" variant="神奇寶貝寶可夢版" owner="bluebear119，AnsonFat，Katherine_twn,proflayton"/>
   <string key="NotInGame">
-    <value>訓練員，你根本就沒參加到神奇寶貝聯盟對戰...</value>
+    <value>訓練員，你根本就沒參加到寵物小精靈聯盟大賽...</value>
   </string>
   <string key="PlayerStartedGame" isgif="true">
     <!-- 0 - Player name -->
-    <value>【{0}】驚人的叫聲嘈醒了大木博士，他還強逼博士舉辦一場正式的神奇寶貝聯盟賽。訓練員們趕快 /join 取得屬於你們的小精靈吧，參與對決！</value>
+    <value>【{0}】驚人的叫聲嘈醒了大木博士，佢仲強逼博士舉辦一場正式的寵物小精靈聯盟大賽。。訓練員們趕快 /join 取得屬於你們的小精靈吧，參與對決！</value>
   </string>
   <string key="PlayerStartedChaosGame" isgif="true">
     <!-- 0 - Player name -->
   <value>【{0}】失驚無神的出現，嚇到了正在研究超夢夢的富士博士。\n怒火中燒的博士決定使用超夢夢來對付亂闖的訓練員。訓練員們還不趕快 /join 召喚自己心愛的小精靈陪你並肩作戰！</value>
   </string>
   <string key="NoJoinGameRunning">
-    <value>有無搞錯啊，有卡洛斯地區冠軍卡露乃的指導，仲要遲到，我決定取消你的參賽資格，還不滾回你的觀眾席。</value>
-    <value>你玩完啦，居然特登為左偷人小精靈而遲大到。偷到精靈有鬼用咩，不服從你的話，什麼都做不了，你還是訓練好你的精靈再來挑戰吧。</value>
-    <value>成日顧住玩PokemonGo做咩姐，搞到你分心不得止，仲Miss左對你很重要的聯盟賽，你宜家後悔都沒用，唯有等下次。記得下次唔該你早少少。</value>
-    <value>身為萬年蟲唔去殺菊石獸，竟然走去做大懶蟲？你唔記得家仇國恨？今次你要做主角就快手搞掂佢！</value>
+    <value>有無搞錯呀？有卡洛斯地區冠軍卡露乃的指導，都要遲到，我決定取消你既比賽資格，仲唔彈番去你既觀眾席。</value>
+    <value>你死啦，居然特登為左偷小精靈而遲大到。偷精靈有鬼用咩，唔服從你既話，咩都做唔到，你都係訓練好你既小精靈再番黎挑戰啦。</value>
+    <value>成日掛住玩Pokemon Go，搞到分哂心，仲Miss左對你黎講好重要的聯盟賽，你宜家後悔都沒用啦，唯有等下次。記得下次早少少啦，初級訓練員。</value>
+    <value>身為萬年蟲唔去殺菊石獸，竟然走去做大懶蟲？你唔記得咗家仇國恨？今次你要做主角就快手搞掂佢！</value>
   </string>
-  <string key="AlreadyJoined">
-    <value>你已經拿到下次參與神奇寶貝聯盟大賽的資格了，請耐心等待下一場對決的開始。</value>
+ <string key="AlreadyJoined">
+    <value>你已經拿到下次參與寵物小精靈聯盟賽的資格了，請耐心等待下一場對決的開始。</value>
   </string>
   <string key="MinuteLeftToJoin">
-    <value>比賽仲有一分鐘開始，快D /join 搶番一隻小精靈陪你參加吧。</value>
+    <value>比賽仲有一分鐘開始，快D /join 搶番隻小精靈做訓練員la。</value>
   </string>
   <string key="SecondsLeftToJoin">
-    <!-- 0 - remaining seconds (number) -->
-    <value>比賽仲有【{0}】秒就開始，快D /join 搶番一隻小精靈陪你參加吧。</value>
+    <!— 0 - remaining seconds (number) —>
+    <value>比賽仲有【{0}】秒就開始，快D /join 搶番一隻小精靈做訓練員la。</value>
   </string>
   <string key="NotEnoughPlayers">
-    <value>很不幸的，這個時間沒什麼人願意參加比賽，你自己同自己玩啦。</value>
+    <value>很不幸的，這個時間沒什麼人願意參加比賽，你返去訓練強D自己隻小精靈先反來啦。</value>
   </string>
   <string key="StartingGameWait">
-    <value>登登登登，這裡是神奇寶貝聯盟大賽的廣播，比賽正式開始，比賽係統將為大家自動選擇可以使用的小精靈.</value>
+    <value>登登登登，而家由寵物小精靈聯盟進行廣播，比賽正式開始，大會將分發小精靈俾大家，係依局入面，佢將會將會陪你作戰。</value>
   </string>
   <string key="BannedForExploit">
     <!-- 0 - Player name -->
@@ -58,11 +58,11 @@
     <value>【{0}】請你私訊呢條友【{1}】，然後對住佢打 /start。如果唔係，你係唔會得到小精靈，同埋唔得參加我們舉辦的比賽。</value>
   </string>
   <string key="DeadFlee">
-    <value>你的小精靈已經失去知覺，無法逃跑。</value>
+     <value>你的小精靈已經失去戰鬥力，要反去精靈球到休養。</value>
   </string>
   <string key="Flee">
     <!-- 0 - Player name -->
-    <value>【{0}】因為你的懦弱，導致小精靈對你產生恨意，不想再同你一起戰鬥而逃跑了。</value>
+    <value>【{0}】因為你的懦弱，導致小精靈對你產生恨意，將精靈球已經摧毀，他已經離開了你，返去佢自己的同伴身邊。</value>
   </string>
   <string key="PlayerRoleWas">
     <!-- 0 - Player name -->
@@ -93,12 +93,12 @@
   <string key="PlayerVotedLynch">
     <!-- 0 - Voter name -->
     <!-- 1 - Target name -->
-    <value>【{0}】同意將【{1}】的小精靈放生.</value>
+    <value>【{0}】同意將【{1}】的精靈球摧毀。</value>
   </string>
   <string key="IdleKill">
     <!-- 0 - player name -->
     <!-- 1 - player role -->
-    <value>【{0}】已經連續2日沒有投票，失去資格的【{0}】，原來係【{1}】</value>
+    <value>【{0}】已經連續2日沒有投票，失去比賽資格的【{0}】，原來係【{1}】</value>
   </string>
   <string key="TraitorTurnWolf">
     <value>火箭兵團 🐺 已經全被人道毀滅, 你暗忖佢哋係雜碎，之後戴上象徵火箭兵團嘅R襟章。作為老大嘅你認為係時候出手，再次為訓練員帶來絕望！ Raid On the City, Knock out, Evil Tusks！</value>
@@ -135,7 +135,7 @@
     <value>水箭龜，係時候將你的水箭炮對準一隻小精靈啦，你可以發射的次數剩下【{0}】。</value>
   </string>
   <string key="AskVisit">
-    <value>你想錫邊個一啖？</value>
+    <value>你今晚想向邊隻小精靈獻出你既香吻？</value>
   </string>
   <string key="AskSee">
     <value>你想叫你的富迪對邊位使出先知能力？</value>
@@ -144,13 +144,13 @@
     <value>你想叫你的幸運蛋對邊位使出光牆?</value>
   </string>
   <string key="AskEat">
-    <value>火箭兵團，你地要綁架邊為訓練員的小精靈？</value>
+    <value>火箭兵團，你地想綁架邊位唔入流訓練員既小精靈？</value>
   </string>
   <string key="AskHunt">
     <value>你覺得邊個訓練員擁有神奇海螺？</value>
   </string>
   <string key="AskRoleModel">
-    <value>你覺得邊個最容易被火戰兵團抓走？</value>
+    <value>你覺得邊位低級訓練員最快被人摧毀佢既精靈球？</value>
   </string>
   <string key="AskConvert">
     <value>你想對著邊個發射化石光線，令佢變做菊石獸？</value>
@@ -165,7 +165,7 @@
     <value> 仲有 </value>
   </string>
   <string key="RoleInfoCursed">
-    <value>你擁有的是喵喵怪 😾!你智商高超，識講人話，但驚畀人岐視而隱藏實力。你知道火箭兵團一直渴望人才，所以打算加入火箭兵團。但你唔知邊個係火箭兵團，又驚講咗畀人聽，人哋會追殺你，所以你只有等火箭兵團夜晚嚟搵你先加入到。但未入之前你都只算係一般人。</value>
+    <value>你擁有的係喵喵怪 😾!你智商高超，識講人話，但驚畀人岐視而隱藏實力。你知道火箭兵團一直渴望人才，所以打算加入火箭兵團。但你唔知邊個係火箭兵團，又驚講咗畀人聽，人哋會追殺你，所以你只有等火箭兵團夜晚嚟搵你先加入到。但未入之前你都只算係一隻普通的小精靈。</value>
   </string>
   <string key="RoleInfoDetective">
     <value>你擁有最強偵查力的探探鼠🕵，你可以派你的探探鼠到訓練員的休息，查出他們擁有的小精靈，但火箭兵團有40%的機率發現你的探探鼠，並且很有可能在下一天殺左你的探探鼠。</value>
@@ -187,23 +187,23 @@
     <value>充滿實力嘅你擁有高竇貓，係火箭兵團幕後大波士 🖕! 在火箭兵團團員被全部人道毀滅之前你會扮作正義的訓練員，一旦現有嘅火箭兵團被完全消滅，你就會親自出馬，放低假面具成為火箭兵團。如果富迪對你使用先知，就會睇穿你的假面具，見到你的內心是高竇貓。</value>
   </string>
   <string key="RoleInfoWolf">
-    <value>你是火箭兵團的隊員 🐺!!! 你可以很開心的每晚去抓訓練員們的小精靈。</value>
+    <value>你係火箭兵團的隊員 🐺!!! 由於你地既目標係捕捉哂全世界既小精靈，所以你每晚都會去捉走人地既精靈，奉獻俾boss</value>
   </string>
   <string key="RoleInfoSeer" >
     <value >你擁有富迪 👳! 每一天, 你可以對訓練員使用先知來查看他們擁有的小精靈。</value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >你的小精靈係鯉魚王，你唔係以為一條死魚可以有咩大作為下話，但由於你要保護的鯉魚門村，你唔好小看自己的能力，或許有一天你也會成為鯉魚龍！
+    <value >你擁有既係喵喵怪 😾!你智商高超，識講人話，但驚畀人岐視而隱藏實力。你知道火箭兵團一直渴望人才，所以打算加入火箭兵團。但你唔知邊個係火箭兵團，又驚講咗畀人聽，人哋會追殺你，所以你只有等火箭兵團夜晚嚟搵你先加入到。但未入之前你都係一隻生活係鯉魚門村既死魚。
 </value>
   </string>
   <string key="RoleInfoTanner" >
-    <value >你擁有皮皮👺. 只有你成功讓多數人放生他，讓他破壞比賽場地，你就會贏。</value>
+    <value >你擁有既係皮皮👺. 只要你成功令到無知既訓練員想摧毀的你自己精靈球，令皮皮以泰山壓頂破壞成個比賽的擂台，勝利就會係你架啦</value>
   </string>
   <string key="RoleInfoWildChild" >
-    <value >不得了啦，你擁有一隻外表天然呆，但實情腹黑嘅果然翁👶。選一個訓練員，一但他的精靈被抓走，你就可以加入火箭兵團了。</value>
+    <value >不得了啦，你擁有一隻外表天然呆，但實情腹黑嘅果然翁👶。選一個訓練員，一旦佢的精靈球被摧毀，你就會穿起個件R字頭的戰衣。</value>
   </string>
   <string key="RoleInfoBeholder" >
-    <value >你的小精靈就是天然眼 👁. 不過你的天然眼能力太弱了，只能知道誰擁有富迪。</value>
+    <value >你的小精靈就是天然雀👁. 不過你的天然雀能力太弱了，只能知道誰擁有富迪。你可以扮你的小精靈係富迪，以保護富迪，避免佢的精靈球被催毀，由你去擔去被吹毀精靈球，但都要保住鯉魚門村的責任</value>
   </string>
   <string key="RoleInfoApprenticeSeer" >
     <value >你的小精靈是尤基納 🙇. 當富迪失去戰鬥力,你就會進化成富迪!</value>
@@ -930,7 +930,7 @@
   </string>
   <string key="AboutHunter">
     <value>
-      【Hunter 獵人🎯：小火龍】\n每晚都會失眠的你，都會帶著你的小火龍，隨時保持警戒，深怕他人會來對你謀財害命。\n1.如果其他人去你屋企，佢地有可能因為你發癲而畀你殺死。\n2.如果火箭兵團黎殺你，你有機會去毀滅他們成員的精靈。\n3.你死前有得放生一只小精靈。\n備註：火箭兵團黎你屋企時候會有機會畀你消滅，機率按遊戲入面後火箭兵團人數目而定。\n4.如果螺旋神教教徒的試圖使出化石光線，令你變成菊石獸, 他們會有50%機會失敗, 當他失敗時, 你有50%機會殺死螺旋神教教徒。
+      【Hunter 獵人🎯：小火龍】\n每晚都會失眠的你，都會帶著你的小火龍，隨時保持警戒，深怕他人會來對你謀財害命。\n1.如果其他人去你屋企，佢地有可能因為你發癲而畀你殺死。\n2.如果火箭兵團黎殺你，你有機會去毀滅他們成員的精靈。\n3.你死前有得摧毀一粒精靈球。\n備註：火箭兵團黎你屋企時候會有機會畀你消滅，機率按遊戲入面後火箭兵團人數目而定。\n4.如果螺旋神教教徒的試圖使出化石光線，令你變成菊石獸, 他們會有50%機會失敗, 當他失敗時, 你有50%機會殺死螺旋神教教徒。
     </value>
   </string>
   <string key="AboutSK">
@@ -1144,7 +1144,7 @@
     <value>經驗豐富嘅你擁有一條99lv鯉魚王，你都係住喺鯉魚門村入面既鯉魚王。你為人低調，但當你的小. 精靈遇上危險，佢會進化成鯉魚龍，並負起帶領其他訓練員跨越險境嘅責任。當你嘅鯉魚王進化成鯉魚龍之後，你每朝就可以投兩票。</value>
   </string>
   <string key="RoleInfoPrince">
-    <value>你的小精靈係大名鼎鼎嘅蒼海王子—瑪納霏，佢係鯉魚門村的天之驕子，但為咗保護佢，你平時唔會話畀人知你有瑪納霏 。如果其他訓練員有眼不識泰山，投票放生你的小精靈時，你才會表露你擁有海王子，所有訓練員會大跌眼鏡，不會再夠膽放生你的小精靈，該次投票亦會失效結束。但記著海王子唔係大哂，佢一樣會喺在晚上被攻擊、捉走、疏忽照顧而死或者喺日間被任性的小火龍燒死以及(被水箭龜嘅水柱巨炮殺死)。
+    <value>你的小精靈係大名鼎鼎嘅蒼海王子—瑪納霏，佢係鯉魚門村的天之驕子，但為咗保護佢，你平時唔會話畀人知你有瑪納霏 。如果其他訓練員有眼不識泰山，投票放生你的小精靈時，你才會表露你擁有海王子，所有訓練員會大跌眼鏡，不會再夠膽摧毀你的精靈球，該次投票亦會失效結束。但記著海王子唔係大哂，佢一樣會喺在晚上被攻擊、捉走、疏忽照顧而死或者喺日間被任性的小火龍燒死以及(被水箭龜嘅水柱巨炮殺死)。
 </value>
   </string>
   <string key="RoleInfoClumsyGuy">
