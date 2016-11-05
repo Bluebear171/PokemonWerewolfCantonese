@@ -391,7 +391,7 @@
   <string key="CultistVotedConvert" >
     <!-- 0 - Voter's name -->
     <!-- 1 - target name -->
-    <value >【{0}】話想化石光線射向【{1}】的身上，令佢變做菊石獸</value>
+    <value >【{0}】話想化石光線射係【{1}】的身上，令佢變做菊石獸</value>
   </string>
   <string key="CultConvertCultHunter">
     <!-- 0 - Yougest Cultist (killed)'s name' -->
@@ -417,31 +417,31 @@
   <string key="CultVisitEmpty">
     <!-- 0 - Newest cultist's name -->
     <!-- 1 - target name -->
-    <value>菊石獸【{0}】向【{1}】屋企使用化石光線...可惜目標小精靈今天並不在家!</value>
+    <value>菊石獸【{0}】想對【{1}】嘅小精靈使用化石光線...但可惜佢同佢的小精靈出咗街!</value>
   </string>
   <string key="CultWins" isgif="true">
     <value >火箭兵團已經被滅團了，耿鬼、萬年蟲都消失了。依家全場只剩下菊石獸，全世界都祟拜住偉大嘅神奇海縲，God praise helix,係菊石獸們嘅勝利!!!</value>
   </string>
   <string key="HunterVisitDead">
     <!-- 0 - target name -->
-    <value>萬年蟲決定去尋找【{0}】的小精靈,睇下佢係咪菊石獸扮出嚟，可惜該精靈已經失去戰鬥力了，萬年蟲只好返屋企休息。</value>
+    <value>萬年蟲決定去尋找【{0}】嘅小精靈,睇下佢係咪菊石獸扮出嚟，佢隻精靈已經沒冇哂戰鬥力，萬年蟲只好返屋企訓教。</value>
   </string>
   <string key="HunterFindCultist">
     <!-- 0 - target name -->
-    <value>萬年蟲決定去尋找【{0}】的小精靈，他發現到【{0}】竟然正在跪拜神奇海縲！萬年蟲一怒之下 ，使用原始之力，處決了【{0}】呢隻菊石邪魔！</value>
+    <value>萬年蟲決定去尋找【{0}】的小精靈，他發現到【{0}】竟然正在跪拜神奇海縲！萬年蟲一怒之下 ，使用原始之力，殲滅了【{0}】呢隻菊石邪魔！</value>
   </string>
   <!-- 0 - target name -->
   <string key="HunterFailedToFind">
-    <value>萬年蟲出發去【{0}】的屋企，發現到佢係一隻普通，純真的小精靈，並未受到菊石邪教感染，觀察多一陣之後，你就安心地返屋企</value>
+    <value>萬年蟲出發去【{0}】的屋企，發現到只係一隻純真可愛的小精靈，仲未受到菊石邪教污染，觀察多一陣之後，你就帶埋萬年蟲安心咁返屋企。</value>
   </string>
   <string key="WildChildToWolves">
     <!-- 0 - Werechild's name -->
-    <value>【{0}】的果然翁啱被火箭兵團睇中了，【{0}】深感榮幸，為火箭兵團做出貢獻是他唯一的出路!</value>
+    <value>【{0}】嘅果然翁啱被火箭兵團睇中了，【{0}】深感榮幸，想為火箭兵團做出貢獻，係佢覺得佢覺得佢一生要做的事!</value>
   </string>
   <string key="WildChildTransform">
     <!-- 0 - role's name -->
     <!-- 0 - teamate's names -->
-    <value>【{0}】死亡的那一刻，潛伏在你內心邪惡嘅性格已經完全甦醒，令你毅然放棄現在美好的生活，進入火箭兵團幫手收服全世界的小精靈。入到黎箭兵團，就要認清楚你的隊員:【{1}】</value>
+    <value>死亡的那一刻，潛伏在你內心邪惡嘅性格已經完全甦醒，令你毅然放棄依加美好的生活，進入火箭兵團幫手收服全世界的小精靈。入到黎火箭兵團，就要認清楚你的隊友:【{1}】</value>
   </string>
   <!-- Villager, Drunk, Harlot, Seer, Traitor, GuardianAngel, Detective, Wolf, Cursed, Gunner, Tanner, Fool, WildChild, Beholder, ApprenticeSeer, Cultist, CultistHunter-->
   <string key="Villager">
@@ -513,7 +513,7 @@
     <value>比卡超👷</value>
   </string>
   <string key="RoleInfoMason">
-    <value>只有擁有比卡超的訓練員，才會同比卡超粉絲會的成員有心靈感應，互相知道對方系邊個。</value>
+    <value>只有擁有比卡超的訓練員，你有比卡超粉絲會的會員卡通卡，所以互相知道對方系邊個。</value>
   </string>
   <string key="MasonEaten">
     <!-- 0 - dead man's name -->
