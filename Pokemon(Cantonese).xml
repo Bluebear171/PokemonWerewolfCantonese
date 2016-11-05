@@ -1209,10 +1209,10 @@
     <value>火箭兵團和{0}鬥得難分難解，喺呢個時候，{1}出現叫停火箭兵團。原來{1}嘅真實身份係沙加老大！{1}提出與{0}進行公平比試，{1}使用了尼多王和鐵甲暴龍等強大嘅地面系精靈，不費吹灰之力，完美地戰勝{0}。 {1}睇到{0}眼中嘅鬥心、戰意以及潛伏在内心的邪惡，亦睇出{0}對力量無盡嘅渴求，{1}邀請{0}加入火箭兵團，{0}接受了黑暗嘅邀請，成為了火箭兵團邪惡爪牙嘅一分子！</value>
   </string>
   <string key="PlayerBitten">
-    <value>You were attacked by the wolves, but the Alpha Wolf chose you.  Instead of being killed, you have been infected..  and will become a wolf tomorrow night!</value>
+    <value>同火箭兵團首領，沙加老大對戰過後，你明白自己嘅弱小，自己與火箭兵團高層實力差距太大。喺火箭兵團威迫利誘下，你加入咗邪惡嘅火箭兵團，成為新團員</value>
   </string>
   <string key="BittenTurned">
-    <value>As night falls, you feel a strange tingling, and your body aches as it begins to transform.... You are now a werewolf!</value>
+    <value>夜幕降臨，你即使在睡夢中亦都感受到你體內既邪惡力量要覺醒。你離開你既屋企去尋找火箭兵團既同伴，踏上捉小精靈既不歸途。</value>
   </string>
   <string key="AboutMayor">
     <value>【Mayor村長🎖鯉魚龍】\n 經驗豐富嘅你擁有一條99lv鯉魚王，你都係住喺鯉魚門村入面既鯉魚王。你為人低調，但當你的小. 精靈遇上危險，佢會進化成鯉魚龍，並負起帶領其他訓練員跨越險境嘅責任。當你嘅鯉魚王進化成鯉魚龍之後，你每朝就可以投兩票。</value>
