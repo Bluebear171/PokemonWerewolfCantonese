@@ -1185,25 +1185,25 @@
     <value>As the rest of the village debates over the events, they suddenly notice {0} wandering around spreading silver across the grounds.  For now, at least, the village will be safe from wolf attacks. (Wolves are disabled tonight)</value>
   </string>
   <string key="Mayor">
-    <value>the Mayor 🎖</value>
+    <value>Mayor 村長🎖鯉魚龍</value>
   </string>
   <string key="Prince">
-    <value>the Prince 👑</value>
+    <value>The Prince 王子👑 蒼海的王子 瑪納霏</value>
   </string>
   <string key="Sorcerer">
-    <value>the Sorcerer 🔮</value>
+    <value>Sorcerer 狼妖巫師🔮立方獸</value>
   </string>
   <string key="ClumsyGuy">
-    <value>the Clumsy Guy 🤕</value>
+    <value>Clumsy Guy 傻佬🤕晃晃班</value>
   </string>
   <string key="Blacksmith">
-    <value>the Blacksmith ⚒</value>
+    <value>Blacksmith 鐵匠⚒堅盾劍怪 ⚒</value>
   </string>
   <string key="AlphaWolf">
-    <value>the Alpha Wolf ⚡️</value>
+    <value>Alphawolf 狼人首領⚡️沙加老大</value>
   </string>
   <string key="WolfCub">
-    <value>the Wolf Cub 🐶</value>
+    <value>wolfclub 幼狼🐶風鈴鈴</value>
   </string>
   <string key="PlayerBittenWolves">
     <value>As the wolves attack {0}, {1} stops everyone, being the Alpha Wolf.  {1} tells the pack that {0} should join the pack instead of dying, so the pack leaves them to their infection.  They will become a werewolf tomorrow night.</value>
@@ -1215,24 +1215,24 @@
     <value>As night falls, you feel a strange tingling, and your body aches as it begins to transform.... You are now a werewolf!</value>
   </string>
   <string key="AboutMayor">
-    <value>[Mayor村長🎖鯉魚龍]\n 經驗豐富嘅你擁有一條99lv鯉魚王，你都係住喺鯉魚門村入面既鯉魚王。你為人低調，但當你的小. 精靈遇上危險，佢會進化成鯉魚龍，並負起帶領其他訓練師跨越險境嘅責任。當你嘅鯉魚王進化成鯉魚龍之後，你每朝就可以投兩票。</value>
+    <value>【Mayor村長🎖鯉魚龍】\n 經驗豐富嘅你擁有一條99lv鯉魚王，你都係住喺鯉魚門村入面既鯉魚王。你為人低調，但當你的小. 精靈遇上危險，佢會進化成鯉魚龍，並負起帶領其他訓練師跨越險境嘅責任。當你嘅鯉魚王進化成鯉魚龍之後，你每朝就可以投兩票。</value>
   </string>
   <string key="AboutPrince">
-    <value>[The Prince 王子👑 蒼海的王子 瑪納霏]\n你的小精靈係大名鼎鼎嘅蒼海王子—瑪納霏，佢係鯉魚門村的天之驕子，但為咗保護佢，你平時唔會話畀人知你有瑪納霏 。\n如果其他訓練師有眼不識泰山，投票放生你的小精靈時，你才會表露你擁有海王子，所有訓練員會大跌眼鏡，不會再夠膽放生你的小精靈，該次投票亦會失效結束。但記著海王子唔係大哂，佢一樣會喺在晚上被攻擊、捉走、疏忽照顧而死或者喺日間被任性的小火龍燒死以及(被水箭龜嘅水柱巨炮殺死)。
+    <value>【The Prince 王子👑 蒼海的王子 瑪納霏】\n你的小精靈係大名鼎鼎嘅蒼海王子—瑪納霏，佢係鯉魚門村的天之驕子，但為咗保護佢，你平時唔會話畀人知你有瑪納霏 。\n如果其他訓練師有眼不識泰山，投票放生你的小精靈時，你才會表露你擁有海王子，所有訓練員會大跌眼鏡，不會再夠膽放生你的小精靈，該次投票亦會失效結束。但記著海王子唔係大哂，佢一樣會喺在晚上被攻擊、捉走、疏忽照顧而死或者喺日間被任性的小火龍燒死以及(被水箭龜嘅水柱巨炮殺死)。
 </value>
   </string>
   <string key="AboutSorcerer">
-    <value>Sorcerer 狼妖巫師🔮立方獸]\n你得到嘅小精靈係火箭兵團最高傑作：立方獸。他擁有技能「追蹤」。呢招相約於富迪既技能「預知未來」，可以喺晚上查看其他訓練員嘅身份，但佢只能夠分辨出火箭兵團以及富迪。為咗報答賜予你立方獸嘅火箭兵團， 你要幫助佢哋，為一般訓練員帶來惡貫滿盈嘅黑暗日子！</value>
+    <value>【Sorcerer 狼妖巫師🔮立方獸】\n你得到嘅小精靈係火箭兵團最高傑作：立方獸。他擁有技能「追蹤」。呢招相約於富迪既技能「預知未來」，可以喺晚上查看其他訓練員嘅身份，但佢只能夠分辨出火箭兵團以及富迪。為咗報答賜予你立方獸嘅火箭兵團， 你要幫助佢哋，為一般訓練員帶來惡貫滿盈嘅黑暗日子！</value>
   </string>
   <string key="AboutClumsy">
-    <value>[Clumsy Guy 傻佬🤕晃晃班]\n你捉到嘅的小精靈係同你一樣大頭蝦嘅晃晃班！佢成日都暈下暈下，搞到你為了照顧佢時都會矇下矇下，所以投票都有一半機會投錯，拾下拾下。</value>
+    <value>【Clumsy Guy 傻佬🤕晃晃班】\n你捉到嘅的小精靈係同你一樣大頭蝦嘅晃晃班！佢成日都暈下暈下，搞到你為了照顧佢時都會矇下矇下，所以投票都有一半機會投錯，拾下拾下。</value>
   </string>
   <string key="AboutBlacksmith">
-    <value>[Blacksmith 鐵匠⚒堅盾劍怪]\n你持有的小精靈為堅盾劍怪。你的小精靈能使用王者之盾 ，觸發之後可以防禦一次敵方嘅攻擊(一次火箭兵團嘅攻擊，待測)， 堅盾劍怪一場比賽只可以使用一次王者之盾，之後就與一般小精靈無異。好好運用你嘅盾去生存下去吧！
+    <value>【Blacksmith 鐵匠⚒堅盾劍怪】\n你持有的小精靈為堅盾劍怪。你的小精靈能使用王者之盾 ，觸發之後可以防禦一次敵方嘅攻擊(一次火箭兵團嘅攻擊，待測)， 堅盾劍怪一場比賽只可以使用一次王者之盾，之後就與一般小精靈無異。好好運用你嘅盾去生存下去吧！
     </value>
   </string>
   <string key="AboutAlphaWolf">
-    <value>[Alphawolf 狼人首領⚡️沙加老大]\n你係沙加老大，地面系嘅館主，更加係火箭兵團現任首領。手持多隻強大地面系精靈嘅你，存在就等同於無敵嘅黑暗，完美嘅邪惡。只要你指揮號令火箭兵團，與你作對嘅訓練員都會屈服於你嘅強大力量之下，當中有20%機會，訓練員畀你嘅領袖魅力吸引，加入火箭兵團，成為你嘅手下。
+    <value>【Alphawolf 狼人首領⚡️沙加老大】\n你係沙加老大，地面系嘅館主，更加係火箭兵團現任首領。手持多隻強大地面系精靈嘅你，存在就等同於無敵嘅黑暗，完美嘅邪惡。只要你指揮號令火箭兵團，與你作對嘅訓練員都會屈服於你嘅強大力量之下，當中有20%機會，訓練員畀你嘅領袖魅力吸引，加入火箭兵團，成為你嘅手下。
     </value>
   </string>
   <string key="AboutWolfCub">
