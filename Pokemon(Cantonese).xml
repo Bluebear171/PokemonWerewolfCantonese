@@ -1216,24 +1216,25 @@
     <value>[Mayor村長🎖鯉魚龍]\n 經驗豐富嘅你擁有一條99lv鯉魚王，你都係住喺鯉魚門村入面既鯉魚王。你為人低調，但當你的小. 精靈遇上危險，佢會進化成鯉魚龍，並負起帶領其他訓練師跨越險境嘅責任。當你嘅鯉魚王進化成鯉魚龍之後，你每朝就可以投兩票。</value>
   </string>
   <string key="AboutPrince">
-    <value>[The Prince 王子👑 蒼海的王子 瑪納霏] \n你的小精靈係大名鼎鼎嘅蒼海王子—瑪納霏，佢係鯉魚門村的天之驕子，但為咗保護佢，你平時唔會話畀人知你有瑪納霏 。\n如果其他訓練師有眼不識泰山，投票放生你的小精靈時，你才會表露你擁有海王子，所有訓練員會大跌眼鏡，不會再夠膽放生你的小精靈，該次投票亦會失效結束。但記著海王子唔係大哂，佢一樣會喺在晚上被攻擊、捉走、疏忽照顧而死或者喺日間被任性的小火龍燒死以及(被水箭龜嘅水柱巨炮殺死)。
+    <value>[The Prince 王子👑 蒼海的王子 瑪納霏]\n你的小精靈係大名鼎鼎嘅蒼海王子—瑪納霏，佢係鯉魚門村的天之驕子，但為咗保護佢，你平時唔會話畀人知你有瑪納霏 。\n如果其他訓練師有眼不識泰山，投票放生你的小精靈時，你才會表露你擁有海王子，所有訓練員會大跌眼鏡，不會再夠膽放生你的小精靈，該次投票亦會失效結束。但記著海王子唔係大哂，佢一樣會喺在晚上被攻擊、捉走、疏忽照顧而死或者喺日間被任性的小火龍燒死以及(被水箭龜嘅水柱巨炮殺死)。
 </value>
   </string>
   <string key="AboutSorcerer">
-    <value>Sorcerer 狼妖巫師🔮立方獸]\n 你得到嘅小精靈係火箭兵團最高傑作：立方獸。他擁有技能「追蹤」。呢招相約於富迪既技能「預知未來」，可以喺晚上查看其他訓練員嘅身份，但佢只能夠分辨出火箭兵團以及富迪。為咗報答賜予你立方獸嘅火箭兵團， 你要幫助佢哋，為一般訓練員帶來惡貫滿盈嘅黑暗日子！</value>
+    <value>Sorcerer 狼妖巫師🔮立方獸]\n你得到嘅小精靈係火箭兵團最高傑作：立方獸。他擁有技能「追蹤」。呢招相約於富迪既技能「預知未來」，可以喺晚上查看其他訓練員嘅身份，但佢只能夠分辨出火箭兵團以及富迪。為咗報答賜予你立方獸嘅火箭兵團， 你要幫助佢哋，為一般訓練員帶來惡貫滿盈嘅黑暗日子！</value>
   </string>
   <string key="AboutClumsy">
-    <value>You are the Clumsy Guy. Maybe you should not have had so much alcohol for breakfeast. You can't see a damn thing. Can you even vote for the person you want to ? (You have 50% chances to vote for someone random)</value>
+    <value>[Clumsy Guy 傻佬🤕晃晃班]\n你捉到嘅的小精靈係同你一樣大頭蝦嘅晃晃班！佢成日都暈下暈下，搞到你為了照顧佢時都會矇下矇下，所以投票都有一半機會投錯，拾下拾下。</value>
   </string>
   <string key="AboutBlacksmith">
-    <value>You are the BlackSmith. Through the years, no blades nor swords gave you as much satisfaction as the Silver Blades the elves ordered.\nYou might have some silverdust left. Who knows ? It might *prevent Wolves from eating tonight* 🤔
+    <value>[Blacksmith 鐵匠⚒堅盾劍怪]\n你持有的小精靈為堅盾劍怪。你的小精靈能使用王者之盾 ，觸發之後可以防禦一次敵方嘅攻擊(一次火箭兵團嘅攻擊，待測)， 堅盾劍怪一場比賽只可以使用一次王者之盾，之後就與一般小精靈無異。好好運用你嘅盾去生存下去吧！
     </value>
   </string>
   <string key="AboutAlphaWolf">
-    <value>You are the Alpha Wolf, the origin of the curse, the bane of banes. While you are alive, the Pack's meal has 20% chances to join your ranks if the victim is the one you voted for.
+    <value>[Alphawolf 狼人首領⚡️沙加老大]\n你係沙加老大，地面系嘅館主，更加係火箭兵團現任首領。手持多隻強大地面系精靈嘅你，存在就等同於無敵嘅黑暗，完美嘅邪惡。只要你指揮號令火箭兵團，與你作對嘅訓練員都會屈服於你嘅強大力量之下，當中有20%機會，訓練員畀你嘅領袖魅力吸引，加入火箭兵團，成為你嘅手下。
     </value>
   </string>
   <string key="AboutWolfCub">
-    <value>What a cuuuute little wuff. _tickles tickles_ -cough cough- As i was saying, you are the Wolf Cub and you _drops the mic_ -I just can't resist that. I think if anyone killed you, i'd give the wuffs two victims. You're too cute to die. I wouldn't be able to tickle you anymore-</value>
+    <value>[wolfclub 幼狼🐶風鈴鈴]
+你擁有珍貴嘅小精靈:風鈴鈴!佢係火箭兵團既吉祥物。佢集可愛以及迷人於一身，佢用鈴聲慰藉火箭兵團嘅心靈、笑容更擁有洗滌火箭兵團靈魂嘅能力，太可愛啦！作為精神支柱既你如果俾其他小精靈殺死，火箭兵團會喺下一晚狂暴化，一次可以捉走兩隻小精靈作為你上路嘅祭品，藉此撫慰你既靈魂。</value>
   </string>
 </strings>
