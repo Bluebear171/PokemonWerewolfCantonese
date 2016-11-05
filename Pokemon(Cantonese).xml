@@ -1154,13 +1154,14 @@
     <value>你得到嘅小精靈係火箭兵團最高傑作：立方獸。他擁有技能「追蹤」。呢招相約於富迪既技能「預知未來」，可以喺晚上查看其他訓練員嘅身份，但佢只能夠分辨出火箭兵團以及富迪。為咗報答賜予你立方獸嘅火箭兵團， 你要幫助佢哋，為一般訓練員帶來惡貫滿盈嘅黑暗日子！</value>
   </string>
   <string key="RoleInfoBlacksmith">
-    <value>You are the Blacksmith: the metalworker of the village. You have a small amount of silver, enough to prevent the wolves from attacking for one night. During the day, you can choose to powder it and spread it around the village. Other than that, you are just a villager.</value>
+    <value>你持有的小精靈為堅盾劍怪。你的小精靈能使用王者之盾 ，觸發之後可以防禦一次敵方嘅攻擊(一次火箭兵團嘅攻擊，待測)， 堅盾劍怪一場比賽只可以使用一次王者之盾，之後就與一般小精靈無異。好好運用你嘅盾去生存下去吧！</value>
   </string>
   <string key="RoleInfoAlphaWolf">
-    <value>You are the Alpha Wolf; the source of the scourge. Your bite is the cause of the curse that turns humans into werewolves. Each night, you will choose a human to attack and kill, but as long as you are alive, your victim has a 20% chance of turning into a werewolf.</value>
+    <value>你係沙加老大，地面系嘅館主，更加係火箭兵團現任首領。手持多隻強大地面系精靈嘅你，存在就等同於無敵嘅黑暗，完美嘅邪惡。只要你指揮號令火箭兵團，與你作對嘅訓練員都會屈服於你嘅強大力量之下，當中有20%機會，訓練員畀你嘅領袖魅力吸引，加入火箭兵團，成為你嘅手下。
+</value>
   </string>
   <string key="RoleInfoWolfCub">
-    <value>You are the Wolf Cub; adored by your wolf pack. Like other wolves, you will choose a villager to attack and kill every night. If you happen to be killed, your wolf pack will fly into a rage and attack two people the next night. You’ll still be dead though.</value>
+    <value>你擁有珍貴嘅小精靈:風鈴鈴!佢係火箭兵團既吉祥物。佢集可愛以及迷人於一身，佢用鈴聲慰藉火箭兵團嘅心靈、笑容更擁有洗滌火箭兵團靈魂嘅能力，太可愛啦！作為精神支柱既你如果俾其他小精靈殺死，火箭兵團會喺下一晚狂暴化，一次可以捉走兩隻小精靈作為你上路嘅祭品，藉此撫慰你既靈魂。</value>
   </string>
   <string key="PrinceLynched">
     <value>As the village begins to lynch {0}, they say “Wait! I am the Prince. This royal ring, with the seal of the king proves it. Every night I am surrounded by servants. So I cannot be evil.” Feeling foolish, the villagers sheepishly retire for the night.</value>
