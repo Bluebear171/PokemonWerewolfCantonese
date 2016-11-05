@@ -280,11 +280,11 @@
   <string key="DefaultEaten" >
     <!-- 0 - victim name -->
     <!-- 1 - victim role -->
-  <value >哎呀呀，火箭兵團真是沒人性der,就連一般訓練員【{0}】既小精靈都唔放過，死都要抓走，訓練員們仲唔拿拿聲將佢哋消滅！【{1}】</value>
+  <value >哎呀呀，火箭兵團好鬼死衰lor,就連一般訓練員【{0}】既小精靈都唔放過，死都要抓走，訓練員們仲唔拿拿聲將佢哋消滅！【{1}】</value>
   </string>
   <string key="HunterKilledCultist">
     <!-- 0 - victim name -->
-    <value>萬年蟲決定去尋找【{0}】的小精靈，他發現到【{0}】竟然正在跪拜神奇海縲！ 萬年蟲一怒之下 ，使用原始之力，殲滅了【{0}】呢隻菊石邪魔！</value>
+    <value>萬年蟲決定去尋找【{0}】既小精靈，他發現到【{0}】既小精靈竟然正在跪拜神奇海縲！ 萬年蟲一怒之下 ，使用原始之力，殲滅了呢隻菊石邪魔！</value>
   </string>
   <string key="NoAttack" >
     <value >真是幸運的一晚，昨天沒有精靈被抓走。</value>
