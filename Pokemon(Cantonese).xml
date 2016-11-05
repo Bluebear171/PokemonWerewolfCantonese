@@ -707,7 +707,7 @@
   </string>
   <string key="GuardBlockedKiller">
     <!-- 0 - target's name -->
-    <value>你嘅耿鬼諗住去打敗【{0}】嘅小精靈，可惜他嘅小精靈一早就已經被幸運蛋數量眾多嘅光牆保護了，任憑你點樣攻擊所有光牆都將你嘅攻擊反射掉。你帶著失敗嘅職位去尋找下一場嘅戰鬥。</value>
+    <value>你嘅耿鬼諗住去打敗【{0}】嘅小精靈，可惜他嘅小精靈一早就已經被幸運蛋嘅光牆保護了，唔理你點樣攻擊都好，光牆都將你的攻擊視為無物。你帶著失敗又累的身軀去搵下一場的戰鬥。</value>
   </string>
   <string key="CultConvertHunter">
     <!-- 0 - Youngest Cultist's name -->
