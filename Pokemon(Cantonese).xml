@@ -520,7 +520,7 @@
     <value>火箭兵團襲擊了【{0}】嘅比卡超。冷血嘅急凍鳥用急凍光線冰封了【{0}】嘅比卡超，比卡超失去戰鬥力被抓走了。</value>
   </string>
   <string key="MasonTeam">
-    <value> 比卡超粉絲會嘅成員有:【{0}】</value>
+    <value> 比卡超粉絲會嘅會員有:【{0}】</value>
   </string>
   <!-- new strings May 6 2016-->
   <string key="CultTargetDead">
@@ -529,23 +529,23 @@
   </string>
   <string key="GuardBlockedWolf">
     <!-- 0 - target's name -->
-    <value>火箭兵團想抓【{0}】嘅小精靈。可惜幸運蛋早已設下光牆, 你嘅奸計無法得逞，只好和你嘅隊員重新討論要抓邊只精靈。</value>
+    <value>火箭兵團想抓【{0}】嘅小精靈。可惜幸運蛋一早已設下光牆, 你嘅奸計無法得逞，只好同你嘅隊員重新討論要抓邊只精靈。</value>
   </string>
   <!-- new strings May 9 2016-->
   <string key="CultUnableToConvert">
     <!-- 0 - newest  -->
     <!-- 1 - target's name -->
-    <value>你派遣【{0}】嘅菊石獸向【{1}】發射化石光線,但【{1}】嘅小精靈擁有很強嘅牽絆，下令一聲避開就避開，快過小明。為免節外生枝，【{0}】只好偃旗息鼓，等待下次機會。:(</value>
+    <value>你派【{0}】的菊石獸向【{1}】發射化石光線,但【{1}】嘅小精靈擁有很強的牽絆，下令一聲避開就避開，仲快過小明。為免節外生枝，【{0}】只好偃旗息鼓，等下次機會。:(</value>
   </string>
   <!-- new string May 12 2016-->
   <string key="NameExists">
     <!-- 0 - target's name -->
     <!-- 1 - name -->
-    <value>@【{1}】，你個名同【{0}】撞咗。請你改咗名先入村。</value> 
+    <value>@【{1}】，你個名同【{0}】撞咗。請你改咗名先入村。你地條條死魚嗰樣已經一樣咁，依加連名都一樣，我點分啊？你改下個名先入村。</value> 
   </string>
   <string key="HarlotDiscoverCult">
     <!-- 0 - target's name -->
-    <value>【{0}】嘅紅唇蛙發覺想錫嘅目標竟然是菊石獸，你唔想自己變成菊石獸，所以帶著驚慌嘅表情趕快跑回家。</value>
+    <value>【{0}】嘅紅唇蛙發覺想錫嘅目標竟然是菊石獸，佢唔想自己變成菊石獸，所以帶著驚慌嘅表情趕快跑回家。</value>
   </string>
   <!-- new string May 13 2016-->
   <string key="Was">
@@ -553,15 +553,15 @@
   </string>
   <string key="GenericDeathNoReveal">
     <!-- 0 - Dead's name -->
-    <value>【{0}】嘅小精靈死在戰鬥金字塔裡. 可惜沒有訓練員知道死亡原因~</value>
+    <value>【{0}】嘅小精靈的小精靈死係戰鬥金字塔裡， 可惜冇訓練員知道死亡原因~</value>
   </string>
   <string key="MasonConverted">
     <!-- 0 - mason's name -->
-    <value> 【{0}】今朝冇帶比卡超嚟到比卡迷聚會，唔通比卡超距放生了？ O.o</value>
+    <value> 【{0}】今朝冇帶比卡超嚟到比卡超迷聚會，唔通比卡超俾佢賣咗？ O.o</value>
   </string>
   <!-- new string May 16 2016-->
   <string key="FleeDisabled">
-    <value>所有訓練員不得離開戰鬥場地！</value>
+    <value>所有訓練員不得離開戰鬥擂台！</value>
   </string>
   <string key="IsDead">
     <!-- used when gunner shoots a player -->
@@ -575,15 +575,15 @@
   </string>
   <string key="AlreadyInGame">
     <!-- 0 - target's name -->
-    <value>你已經在遊戲裡了，乖仔，不要亂走啦 ！(【{0}】)</value>
+    <value>已經在擂台等候區，你就睇住你隻小精靈，咪俾佢亂走！(【{0}】)</value>
   </string>
   <string key="MultipleGames">
-    <value>你地開得太多遊戲啦，咁准咁貪心。現刪除多餘嘅遊戲。</value>
+    <value>你地開得太多擂台，大木博士處理唔到咁多場。依加佢處理下，只開一場。</value>
   </string>
   <string key="GroupQueue">
     <!-- 0 - target's name -->
     <!-- 1 - target's name -->
-    <value>群組已在列隊中。目前順位︰【{0}】/ 【{1}】</value>
+    <value>隊伍已在列隊中。目前順位︰【{0}】/ 【{1}】</value>
   </string>
   <string key="MaintBreak">
     <!-- 0 - target's name -->
