@@ -1164,25 +1164,25 @@
     <value>你擁有珍貴嘅小精靈:風鈴鈴!佢係火箭兵團既吉祥物。佢集可愛以及迷人於一身，佢用鈴聲慰藉火箭兵團嘅心靈、笑容更擁有洗滌火箭兵團靈魂嘅能力，太可愛啦！作為精神支柱既你如果俾其他小精靈殺死，火箭兵團會喺下一晚狂暴化，一次可以捉走兩隻小精靈作為你上路嘅祭品，藉此撫慰你既靈魂。</value>
   </string>
   <string key="PrinceLynched">
-    <value>As the village begins to lynch {0}, they say “Wait! I am the Prince. This royal ring, with the seal of the king proves it. Every night I am surrounded by servants. So I cannot be evil.” Feeling foolish, the villagers sheepishly retire for the night.</value>
+    <value>當咁多位訓練員打算放生{0}嘅小精靈時候，佢義正詞嚴咁講咗一句：「我係小精靈保育家！」之後出示手持嘅小精靈—竟然係「海王子」瑪納霏！班訓練師見到瑪納霏身上發出嘅神聖藍光即刻清醒返哂！「保育員大人有大量，係我哋有眼不識泰山，被傳說小精靈肯定嘅人點會係火箭兵團呢？今次投票我哋宣佈無效！對唔住啊！」之後一個二個面矇矇，閃返返去屋企訓覺。</value>
   </string>
   <string key="SorcererOther">
-    <value>You try to look at {0}, but can't quite make out what they are.  They are not a wolf or seer however...</value>
+    <value>立方獸：「010011......追蹤完畢。調查對象{0}為......分析不能。」咁睇上嚟{0}唔係火箭兵團，亦唔係富迪！</value>
   </string>
   <string key="MayorReveal">
-    <value>{0} steps forward and present the official seal of the Mayor, declaring himself as such.  From now on, {0}'s votes for lynching will count twice.</value>
+    <value>{0}對99lv嘅鯉魚王使用奇異糖果提升了等級。因為{0}眼見目前頭條萬象，亂世紛攘，所以今次佢無再取消進化。鯉躍龍門，{0}嘅鯉魚王已經進化成為鯉魚龍，執掌鯉魚門！大家見到佢咁勁，就畀多一票佢去做決策，希望佢作為首席訓練員會帶領大家渡過難關！</value>
   </string>
   <string key="AskMayor">
-    <value>Click "Reveal" whenever you are ready to reveal yourself as the Mayor</value>
+    <value>如你決定承擔首席訓練員嘅責任，按下「餵食」對你嘅99lv 鯉魚王使用奇異糖果，提升等級並進化，進化之後你會被推舉為首席訓練師，投票時你會兩票。</value>
   </string>
   <string key="Reveal">
-    <value>Reveal</value>
+    <value>餵食</value>
   </string>
   <string key="SpreadDust">
-    <value>Would you like to spread the silver today, disabling the wolves tonight?</value>
+    <value>你本回合會否使用「王者之盾」, 阻止火箭兵團今晚嘅行動?</value>
   </string>
   <string key="BlacksmithSpreadSilver">
-    <value>As the rest of the village debates over the events, they suddenly notice {0} wandering around spreading silver across the grounds.  For now, at least, the village will be safe from wolf attacks. (Wolves are disabled tonight)</value>
+    <value>當各位訓練員正在擔憂自己嘅小精靈今晚會唔會被火箭兵團捉走, 突然之間訓練員發現  {0} 既【堅盾劍鬼】已經使用咗王者之盾守護著所有小精靈。所以大家可以放心，今晚火箭兵團無可能去捉走大家嘅所有小精靈！</value>
   </string>
   <string key="Mayor">
     <value>Mayor 村長🎖鯉魚龍</value>
@@ -1206,7 +1206,7 @@
     <value>wolfclub 幼狼🐶風鈴鈴</value>
   </string>
   <string key="PlayerBittenWolves">
-    <value>As the wolves attack {0}, {1} stops everyone, being the Alpha Wolf.  {1} tells the pack that {0} should join the pack instead of dying, so the pack leaves them to their infection.  They will become a werewolf tomorrow night.</value>
+    <value>火箭兵團和{0}鬥得難分難解，喺呢個時候，{1}出現叫停火箭兵團。原來{1}嘅真實身份係沙加老大！{1}提出與{0}進行公平比試，{1}使用了尼多王和鐵甲暴龍等強大嘅地面系精靈，不費吹灰之力，完美地戰勝{0}。 {1}睇到{0}眼中嘅鬥心、戰意以及潛伏在内心的邪惡，亦睇出{0}對力量無盡嘅渴求，{1}邀請{0}加入火箭兵團，{0}接受了黑暗嘅邀請，成為了火箭兵團邪惡爪牙嘅一分子！</value>
   </string>
   <string key="PlayerBitten">
     <value>You were attacked by the wolves, but the Alpha Wolf chose you.  Instead of being killed, you have been infected..  and will become a wolf tomorrow night!</value>
