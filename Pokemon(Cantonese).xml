@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <strings>
-  <language name="廣東話（神奇寶貝寶可夢版）" base="廣東話" variant="神奇寶貝寶可夢版" owner="bluebear119，AnsonFat，Katherine_twn,proflayton"/>
+  <language name="廣東話（神奇寶貝寶可夢版）" base="廣東話" variant="神奇寶貝寶可夢版" owner="bluebear119，AnsonFat，Katherine_twn,proflayton,Dino"/>
   <string key="NotInGame">
     <value>訓練員，你根本就沒參加到寵物小精靈聯盟大賽...</value>
   </string>
@@ -587,7 +587,7 @@
   </string>
   <string key="MaintBreak">
     <!-- 0 - target's name -->
-    <value>抱歉，我現正要下線更新，從現在開始不能啟動遊戲。\n正在等徒 【{0}】場遊戲結束……\n更多資訊請至 @werewolfdev。</value>
+    <value>對唔住，大木博士在主持一場比賽，你不能擾亂佢。\n正在等徒 【{0}】比賽結果束……\n更多資訊請至 @werewolfdev。</value>
   </string>
   <string key="MaxGames">
     <!-- 0 - target's name -->
@@ -633,17 +633,9 @@
     <value>沒有富迪👳!</value>
   </string>
   <string key="TimesUp">
-    <value>掛撚夠機未啊，信唔信我下鋪派啲唔撚駛撳制嘅角色俾你吖嗱！（夠鐘！）</value>
-    <value>夠鐘，收工，唔鳩理你！（夠鐘！）</value>
-    <value>最心痛是，按得太遲～（夠鐘！）</value>
-    <value>淫賤！掛住同囝囝吹水唔撚撳制！（夠鐘！）</value>
-    <value>厹！掛住搵囡囡傾計唔撚撳制！（夠鐘！）</value>
-    <value>鐘聲響起歸家嘅訊號～（夠鐘！）</value>
-    <value>你係咪訓撚著咗？（夠鐘！）</value>
-    <value>你知道我最撚柒憎人遲到嗎？（夠鐘！）</value>
-    <value>請放底筆！（夠鐘！）</value>
-    <value>佛誕都嚟啦，諗撚完未啊？（夠鐘！）</value>
-    <value>咁撚小事都決定唔到，點做大事啊！（夠鐘！）</value>
+    <value>同你隻小精靈玩夠未，信唔信我下鋪派啲唔駛撳制嘅角色俾你吖嗱！（夠鐘！）</value>
+    <value>夠鐘，你又訓練小精靈訓練到唔記得時間？！（夠鐘！）</value>
+    <value>你唔好再掛住陪隻小精靈陪到唔得閒投票好冇？！（夠鐘！）</value>
   </string>
   <!-- new strings june 10 2016 -->
   <string key="RoleInfoCupid">
